@@ -1,10 +1,10 @@
-# 🛠️ Contribution Guidelines
+#  Contribution Guidelines
 
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ---
 
-### 🔄 How to Contribute
+###  How to Contribute
 
 1. **Fork** the repository.
 2. Create a new branch for your feature or fix.
@@ -15,7 +15,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ---
 
-### 📋 Notes
+###  Notes
 
 - Be kind and respectful in discussions and reviews.
 - Follow the coding style used in this project.
